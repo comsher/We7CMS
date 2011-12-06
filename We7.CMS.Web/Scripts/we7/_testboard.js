@@ -5,3 +5,4 @@
 test("Hello test",function(){
 	ok
 });
+ No newline at end of file
